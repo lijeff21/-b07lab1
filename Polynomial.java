@@ -1,3 +1,5 @@
+//polynomial class
+
 import java.lang.Math;
 
 class Polynomial {
